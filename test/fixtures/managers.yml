@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  nascimento: 2024-11-27
+  Store: one
+
+two:
+  nome: MyString
+  nascimento: 2024-11-27
+  Store: two
